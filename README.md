@@ -20,6 +20,10 @@ A collection of machine learning projects demonstrating various data science tec
 - **Status**: ✅ Completed
 - **Description**: Time series forecasting of gold prices using statistical models (ARIMA, Prophet) and technical indicators
 
+### 5. Netflix Analysis
+- **Status**: ✅ Completed
+- **Description**: Time-series analysis of Netflix content library exploring release patterns, content growth, and categorical insights using pandas, matplotlib, and seaborn.
+
 
 ### Technologies Used
 
