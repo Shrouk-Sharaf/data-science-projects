@@ -16,6 +16,11 @@ A collection of machine learning projects demonstrating various data science tec
 - **Status**: ✅ Completed
 - **Description**: Deep learning approach for cancer classification using neural networks
 
+### 4. Gold Price Prediction
+- **Status**: ✅ Completed
+- **Description**: Time series forecasting of gold prices using statistical models (ARIMA, Prophet) and technical indicators
+
+
 ### Technologies Used
 
 - Python
