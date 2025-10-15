@@ -24,6 +24,9 @@ A collection of machine learning projects demonstrating various data science tec
 - **Status**: ✅ Completed
 - **Description**: Time-series analysis of Netflix content library exploring release patterns, content growth, and categorical insights using pandas, matplotlib, and seaborn.
 
+### 6. Image Preprocessing & Augmentation Pipeline
+- **Status**: ✅ Completed
+- **Description**: Comprehensive image preprocessing and augmentation system for deep learning, implementing essential transformations, noise management, color space operations, geometric augmentations, and edge detection with quantitative evaluation using OpenCV, NumPy, and matplotlib.
 
 ### Technologies Used
 
